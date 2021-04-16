@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.codetoart:r2-streamer-kotlin:1.0.4-2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0feef7d12a1d14fd8920e86b9dfd889f/jetified-r2-streamer-kotlin-1.0.4-2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0feef7d12a1d14fd8920e86b9dfd889f/jetified-r2-streamer-kotlin-1.0.4-2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0feef7d12a1d14fd8920e86b9dfd889f/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f507f0ac783d2df562dc17af1000c77/jetified-r2-streamer-kotlin-1.0.4-2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9dea13a15ff2412b2caa3e6868a854db/jetified-r2-streamer-kotlin-1.0.4-2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9dea13a15ff2412b2caa3e6868a854db/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9dea13a15ff2412b2caa3e6868a854db/jetified-r2-streamer-kotlin-1.0.4-2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.codetoart/r2-streamer-kotlin/1.0.4-2/6f7e24e555fd4972a51eaa38902fafa8de08e233/r2-streamer-kotlin-1.0.4-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

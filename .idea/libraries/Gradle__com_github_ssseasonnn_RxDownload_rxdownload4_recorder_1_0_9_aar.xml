@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ssseasonnn.RxDownload:rxdownload4-recorder:1.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e9d559659966e22cc6845879ac2f049/jetified-rxdownload4-recorder-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e9d559659966e22cc6845879ac2f049/jetified-rxdownload4-recorder-1.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e9d559659966e22cc6845879ac2f049/jetified-rxdownload4-recorder-1.0.9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c8205731a0c1f179f281c321c412e4f5/jetified-rxdownload4-recorder-1.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f7fae74a969e5618ff9a1827d4b65da/jetified-rxdownload4-recorder-1.0.9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f7fae74a969e5618ff9a1827d4b65da/jetified-rxdownload4-recorder-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f7fae74a969e5618ff9a1827d4b65da/jetified-rxdownload4-recorder-1.0.9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ssseasonnn.RxDownload/rxdownload4-recorder/1.0.9/3d8cfb007d4da73679ef15614f33ad0d1d0ea8a2/rxdownload4-recorder-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

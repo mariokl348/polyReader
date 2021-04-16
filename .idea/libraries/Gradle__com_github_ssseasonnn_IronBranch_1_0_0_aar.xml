@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ssseasonnn:IronBranch:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c98c03856ac694300f8f02e93979967a/jetified-IronBranch-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/59b80a01a61741526889cafa770d00f2/jetified-IronBranch-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/59b80a01a61741526889cafa770d00f2/jetified-IronBranch-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/59b80a01a61741526889cafa770d00f2/jetified-IronBranch-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ssseasonnn/IronBranch/1.0.0/2e7b430e7ad7b0e2d238e5d523f5a201ba2ba838/IronBranch-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ssseasonnn:ClarityPotion:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73caa0587fd87d36df4ed494da5b84f4/jetified-ClarityPotion-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a0e1f7a5191c1cae96779666bf13fef/jetified-ClarityPotion-1.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a0e1f7a5191c1cae96779666bf13fef/jetified-ClarityPotion-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a0e1f7a5191c1cae96779666bf13fef/jetified-ClarityPotion-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ssseasonnn/ClarityPotion/1.0.2/f6eb9224f345306c9665b977673c70881f45c195/ClarityPotion-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

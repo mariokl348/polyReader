@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ssseasonnn.RxDownload:rxdownload4-notification:1.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b62ca84f3a223c0cfad28426a307649d/jetified-rxdownload4-notification-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b62ca84f3a223c0cfad28426a307649d/jetified-rxdownload4-notification-1.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b62ca84f3a223c0cfad28426a307649d/jetified-rxdownload4-notification-1.0.9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/43a9242b13edb9a22c673628937807c6/jetified-rxdownload4-notification-1.0.9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/43a9242b13edb9a22c673628937807c6/jetified-rxdownload4-notification-1.0.9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/43a9242b13edb9a22c673628937807c6/jetified-rxdownload4-notification-1.0.9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ssseasonnn.RxDownload/rxdownload4-notification/1.0.9/5bf0300f7c115e3db051f3b591c738072f542562/rxdownload4-notification-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Epub Reader</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alternative_login">Alternative login methods</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="display_name">Display name</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="agree">Agree to S</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+    <string name="showing">Showing:</string>
+
+    <string-array name="sorts">
+        <item>Latest</item>
+        <item>Oldest</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Categories</item>
+        <item>Oldest</item>
+    </string-array>
+
+    <string name="book_summary">A book review is a form of literary criticism in which a book is merely described (summary review) or analyzed based on content, style, and merit.[1] A book review may be a primary source, opinion piece, summary review or scholarly review.[2] Books can be reviewed for printed periodicals, magazines and newspapers, as school work, or for book web sites on the Internet. A book review\'s length may vary from a single paragraph to a substantial essay. Such a review may evaluate the book on the basis of personal taste. Reviewers may use the occasion of a book review for an extended essay that can be closely or loosely related to the subject of the book, or to promulgate their own ideas on the topic of a fiction or non-fiction work.
+
+Some journals are devoted to book reviews, and reviews are indexed in databases such as Book Review Index and Kirkus Reviews; but many more book reviews can be found in newspaper and scholarly databases such as Arts and Humanities Citation Index, Social Sciences Citation Index and discipline-specific databases.</string>
+    <string name="author">Author:</string>
+    <string name="publication_date">Publication Date:</string>
+    <string name="publisher">Publisher:</string>
+    <string name="narrated_by">Narrated by:</string>
+    <string name="categories">Categories:</string>
+</resources>

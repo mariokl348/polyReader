@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_register"
+    app:startDestination="@id/registerMainFragment">
+
+    <fragment
+        android:id="@+id/registerMainFragment"
+        android:name="com.company.epubreader.ui.register.fragments.RegisterMainFragment"
+        android:label="fragment_register_main"
+        tools:layout="@layout/fragment_register_main" >
+        <action
+            android:id="@+id/toRegister"
+            app:destination="@id/registerFragment" />
+        <action
+            android:id="@+id/toLogin"
+            app:destination="@id/loginFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.company.epubreader.ui.register.fragments.RegisterFragment"
+        android:label="fragment_register"
+        tools:layout="@layout/fragment_register" >
+        <action
+            android:id="@+id/toLoginFromRegister"
+            app:destination="@id/loginFragment"
+            app:popUpTo="@id/registerMainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.company.epubreader.ui.register.fragments.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+</navigation>
